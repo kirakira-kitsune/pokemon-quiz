@@ -1,0 +1,6 @@
+{
+    "name": "gorogoro/pokemon_quiz",
+    "require": {
+        "learnosity/learnosity-sdk-php": "^0.10.3"
+    }
+}
